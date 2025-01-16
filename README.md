@@ -7,9 +7,9 @@ Développeur Full-Stack Python avec plus de 8 ans d'expérience, spécialisé da
 - **DevOps et CI/CD** : Intégration et déploiement continu avec Docker et GitLab CI/CD.
 - **Modélisation Machine Learning** : Développement et déploiement de modèles pour la prédiction et l'analyse.
 
+📄 **[Mon CV](./CV_Ahmed_Nasri_Developpeur_Full_Stack_Python_Senior.pdf)**  
 📧 **Email** : ahmed.nasri.ing@gmail.com  
 🌍 **LinkedIn** : [Ahmed Nasri](https://www.linkedin.com/in/ahmed-nasri-507abb66)
-📄 **[Mon CV](./CV_Ahmed_Nasri_Developpeur_Full_Stack_Python_Senior.pdf)**  
 ---
 
 ## 🚀 Projets Techniques
