@@ -63,6 +63,23 @@ Développeur Full-Stack Python avec plus de 8 ans d'expérience, spécialisé da
 
 ---
 
+---
+
+### **5. [Drone Visit Sites](https://github.com/nasriAhmed/Drone_Visit_sites)**
+- **Objectif** : Développement d’une application pour planifier et optimiser les visites de drones sur des sites spécifiques.
+- **Détails Techniques** :
+  - **Backend** :
+    - API REST en **Python Flask**.
+  - **Base de Données** :
+    - **PostgreSQL/PostGIS** pour les calculs géospatiaux avancés.
+  - **DevOps** :
+    - Dockerisation complète.
+    - CI/CD avec GitLab.
+  - **Tests** :
+    - Tests backend avec **Pytest**.
+- **Tech Stack** : Python Flask, sqlalchemy, PostgreSQL, Docker, Pytest.
+
+---
 ## 🛠️ Compétences Techniques
 
 | **Catégorie**              | **Compétences**                                                                 |
