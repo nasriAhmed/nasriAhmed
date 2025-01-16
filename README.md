@@ -40,32 +40,7 @@ Développeur Full-Stack Python avec plus de 8 ans d'expérience, spécialisé da
 
 ---
 
-### **3. [Gestion des Stocks avec Django](https://github.com/ahmednasri/stock_management_django)**
-- **Objectif** : Application CRUD pour gérer les stocks, les commandes et les fournisseurs.
-- **Détails Techniques** :
-  - **Django ORM** : Modélisation et gestion efficace des bases de données relationnelles.
-  - **Interface Utilisateur** : Utilisation de Django Admin pour une administration simplifiée.
-  - **Sécurité** : Intégration de tokens JWT pour l’authentification des utilisateurs.
-- **Features** :
-  - Dashboard en temps réel pour suivre l’état des stocks.
-  - Système de notifications pour les seuils critiques.
-- **Tech Stack** : Python, Django, PostgreSQL, JWT, Docker.
-
----
-
-### **4. [Simulation Épidémiologique avec des Multi-Agents](https://github.com/nasriAhmed/Project_Covid_19)**
-- **Objectif** : Modélisation de la propagation d'épidémies avec des agents intelligents et du deep learning.
-- **Détails Techniques** :
-  - **Deep Learning** : Utilisation de RNN (Recurrent Neural Networks) pour la prédiction.
-  - **Simulation Multi-Agents** : Modélisation des interactions entre agents (populations, lieux).
-  - **Graph Neural Networks** : Analyse des relations spatio-temporelles des données.
-- **Tech Stack** : Python, TensorFlow, Matplotlib, Quantum.
-
----
-
----
-
-### **5. [Drone Visit Sites](https://github.com/nasriAhmed/Drone_Visit_sites)**
+### **3. [Drone Visit Sites](https://github.com/nasriAhmed/Drone_Visit_sites)**
 - **Objectif** : Développement d’une application pour planifier et optimiser les visites de drones sur des sites spécifiques.
 - **Détails Techniques** :
   - **Backend** :
@@ -80,6 +55,30 @@ Développeur Full-Stack Python avec plus de 8 ans d'expérience, spécialisé da
 - **Tech Stack** : Python Flask, sqlalchemy, PostgreSQL, Docker, Pytest.
 
 ---
+
+### **4. [Simulation Épidémiologique avec des Multi-Agents](https://github.com/nasriAhmed/Project_Covid_19)**
+- **Objectif** : Modélisation de la propagation d'épidémies avec des agents intelligents et du deep learning.
+- **Détails Techniques** :
+  - **Deep Learning** : Utilisation de RNN (Recurrent Neural Networks) pour la prédiction.
+  - **Simulation Multi-Agents** : Modélisation des interactions entre agents (populations, lieux).
+  - **Graph Neural Networks** : Analyse des relations spatio-temporelles des données.
+- **Tech Stack** : Python, TensorFlow, Matplotlib, Quantum.
+
+---
+
+### **5. [Gestion des Stocks avec Django](https://github.com/ahmednasri/stock_management_django)**
+- **Objectif** : Application CRUD pour gérer les stocks, les commandes et les fournisseurs.
+- **Détails Techniques** :
+  - **Django ORM** : Modélisation et gestion efficace des bases de données relationnelles.
+  - **Interface Utilisateur** : Utilisation de Django Admin pour une administration simplifiée.
+  - **Sécurité** : Intégration de tokens JWT pour l’authentification des utilisateurs.
+- **Features** :
+  - Dashboard en temps réel pour suivre l’état des stocks.
+  - Système de notifications pour les seuils critiques.
+- **Tech Stack** : Python, Django, PostgreSQL, JWT, Docker.
+
+---
+
 ## 🛠️ Compétences Techniques
 
 | **Catégorie**              | **Compétences**                                                                 |
