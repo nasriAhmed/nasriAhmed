@@ -14,7 +14,7 @@ Développeur Full-Stack Python avec plus de 8 ans d'expérience, spécialisé da
 
 ## 🚀 Projets Techniques
 
-### **1. [ETL avec Airflow et Pandas](https://github.com/ahmednasri/etl_airflow_pandas)**
+### **1. [ETL avec Airflow et Pandas](https://github.com/nasriAhmed/Etl_airflow_pandas)**
 - **Objectif** : Mise en place d'un pipeline ETL pour extraire, transformer et charger des données brutes vers une base de données optimisée.
 - **Détails Techniques** :
   - **Airflow** : Orchestration et planification des tâches.
@@ -28,7 +28,7 @@ Développeur Full-Stack Python avec plus de 8 ans d'expérience, spécialisé da
 
 ---
 
-### **2. [Analyse des Logs avec PySpark](https://github.com/ahmednasri/log_analysis_pyspark)**
+### **2. [Analyse des Logs avec PySpark](https://github.com/nasriAhmed/Analyse_des_logs_avec_PySpark)**
 - **Objectif** : Analyser des fichiers de logs volumineux pour détecter des anomalies et des tendances.
 - **Détails Techniques** :
   - **PySpark** : Traitement distribué des données pour gérer des volumes massifs.
@@ -53,7 +53,7 @@ Développeur Full-Stack Python avec plus de 8 ans d'expérience, spécialisé da
 
 ---
 
-### **4. [Simulation Épidémiologique avec des Multi-Agents](https://github.com/ahmednasri/epidemic_simulation)**
+### **4. [Simulation Épidémiologique avec des Multi-Agents](https://github.com/nasriAhmed/Project_Covid_19)**
 - **Objectif** : Modélisation de la propagation d'épidémies avec des agents intelligents et du deep learning.
 - **Détails Techniques** :
   - **Deep Learning** : Utilisation de RNN (Recurrent Neural Networks) pour la prédiction.
