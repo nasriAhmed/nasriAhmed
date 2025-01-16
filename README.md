@@ -9,7 +9,7 @@ Développeur Full-Stack Python avec plus de 8 ans d'expérience, spécialisé da
 
 📧 **Email** : ahmed.nasri.ing@gmail.com  
 🌍 **LinkedIn** : [Ahmed Nasri](https://www.linkedin.com/in/ahmed-nasri-507abb66)
-
+📄 **[Mon CV](./CV_Ahmed_Nasri_Developpeur_Full_Stack_Python_Senior.pdf)**  
 ---
 
 ## 🚀 Projets Techniques
