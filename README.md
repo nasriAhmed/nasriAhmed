@@ -2,12 +2,12 @@
 
 🎯 **À propos de moi**  
 Développeur Full-Stack Python avec plus de 8 ans d'expérience, spécialisé dans :
-- **Développement d'APIs REST** : Création d'architectures sécurisées et performantes.
-- **Big Data et Analyse** : Traitement de données massives avec des outils comme PySpark et Pandas.
-- **DevOps et CI/CD** : Intégration et déploiement continu avec Docker et GitLab CI/CD.
+- **Développement d'APIs REST** : (Flask, FastAPI, Django) sécurisées et performantes.
+- **Big Data et Analyse** : Traitement et manipulation de données massives avec des outils comme PySpark et Pandas.
+- **DevOps et CI/CD** : Intégration et déploiement continu avec Docker, Kubernetes, GitLab CI/CD.
 - **Modélisation Machine Learning** : Développement et déploiement de modèles pour la prédiction et l'analyse.
 - **Mise en place d'architectures** robustes et scalables pour des applications web et Big Data
-- **Cloud & Azure :** Maîtrise des services Azure Key Vault, Azure Databricks, Azure Storage.
+- **Cloud & Azure :** Maîtrise des services **Azure Key Vault**, **Azure Databricks**, **Azure Storage**.
 - **Scrum Master certifié :** Gestion Agile et optimisation des processus de développement
 
 📄 **[Mon CV](./CV_Ahmed_Nasri_Developpeur_Full_Stack_Python_Senior.pdf)**  
