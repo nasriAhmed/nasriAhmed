@@ -14,7 +14,39 @@ Développeur Full-Stack Python avec plus de 8 ans d'expérience, spécialisé da
 
 ## 🚀 Projets Techniques
 
-### **1. [ETL avec Airflow et Pandas](https://github.com/nasriAhmed/Etl_airflow_pandas)**
+### **1. [Système de Gestion de Bibliothèque avec Flask & MongoDB](https://github.com/nasriAhmed/library_management)**
+- **Objectif** : Ce projet est une API RESTful permettant de gérer une bibliothèque avec :
+  - 📖 **Gestion des auteurs :** Ajouter, lister et supprimer des auteurs.
+  - 📚 **Gestion des livres :** Ajouter, lister et supprimer des livres.
+  - 🔄 **Gestion des emprunts :** Permet aux utilisateurs d'emprunter des livres et de gérer le stock en temps réel.
+  - 🔐 **Authentification JWT :** Sécurisation des accès avec JSON Web Token.
+  - 🔍 **Recherche de livres :** Endpoint permettant de retrouver un livre par son titre.
+  - 🏗 **Déploiement avec Docker & MongoDB :** Conteneurisation pour une exécution facile et rapide.
+  - 📊 **Gestion des logs :** Supervision avancée des performances avec des logs et un suivi des requêtes.
+- 🏗 **Déploiement avec Docker & MongoDB**..
+- **Détails Techniques** :
+ - **Python** (Flask, MongoEngine, PyJWT, Pandas)
+ - **Base de données :** MongoDB.
+ - **Gestion des Logs :** logging pour suivre les opérations de l'API.
+ - **Tests Unitaires :** Pytest pour la validation des endpoints.
+ - **Conteneurisation & Déploiement :** Docker, Docker Compose.
+- **Challenges Résolus** :
+  - 📌 Stockage optimisé avec MongoDB pour gérer efficacement les relations entre les livres, auteurs et emprunts.
+  - 🔐 Sécurisation des accès avec JWT pour protéger les endpoints sensibles.
+  - 📊 Monitoring des performances via des logs structurés.
+  - 🛠️ Automatisation des tests avec Pytest pour garantir la fiabilité des endpoints API.
+  - 🏗 Déploiement facile avec Docker, permettant une mise en production rapide et reproductible
+- **Tech Stack** :
+-  **Langage :** Python
+-  **Framework Web :** Flask (Flask-RESTful, Flask-JWT-Extended)
+-  **Base de données :** MongoDB avec MongoEngine
+-  **Outils de Conteneurisation :** Docker, Docker Compose
+-  **Gestion des logs et monitoring :** Logging Python
+-  **Tests :** Pytest pour les tests unitaires
+
+---
+
+### **2. [ETL avec Airflow et Pandas](https://github.com/nasriAhmed/Etl_airflow_pandas)**
 - **Objectif** : Mise en place d'un pipeline ETL pour extraire, transformer et charger des données brutes vers une base de données optimisée.
 - **Détails Techniques** :
   - **Airflow** : Orchestration et planification des tâches.
@@ -28,7 +60,7 @@ Développeur Full-Stack Python avec plus de 8 ans d'expérience, spécialisé da
 
 ---
 
-### **2. [Analyse des Logs avec PySpark](https://github.com/nasriAhmed/Analyse_des_logs_avec_PySpark)**
+### **3. [Analyse des Logs avec PySpark](https://github.com/nasriAhmed/Analyse_des_logs_avec_PySpark)**
 - **Objectif** : Analyser des fichiers de logs volumineux pour détecter des anomalies et des tendances.
 - **Détails Techniques** :
   - **PySpark** : Traitement distribué des données pour gérer des volumes massifs.
@@ -40,7 +72,7 @@ Développeur Full-Stack Python avec plus de 8 ans d'expérience, spécialisé da
 
 ---
 
-### **3. [Drone Visit Sites](https://github.com/nasriAhmed/Drone_Visit_sites)**
+### **4. [Drone Visit Sites](https://github.com/nasriAhmed/Drone_Visit_sites)**
 - **Objectif** : Développement d’une application pour planifier et optimiser les visites de drones sur des sites spécifiques.
 - **Détails Techniques** :
   - **Backend** :
@@ -56,7 +88,7 @@ Développeur Full-Stack Python avec plus de 8 ans d'expérience, spécialisé da
 
 ---
 
-### **4. [Simulation Épidémiologique avec des Multi-Agents](https://github.com/nasriAhmed/Project_Covid_19)**
+### **5. [Simulation Épidémiologique avec des Multi-Agents](https://github.com/nasriAhmed/Project_Covid_19)**
 - **Objectif** : Modélisation de la propagation d'épidémies avec des agents intelligents et du deep learning.
 - **Détails Techniques** :
   - **Deep Learning** : Utilisation de RNN (Recurrent Neural Networks) pour la prédiction.
@@ -64,20 +96,7 @@ Développeur Full-Stack Python avec plus de 8 ans d'expérience, spécialisé da
   - **Graph Neural Networks** : Analyse des relations spatio-temporelles des données.
 - **Tech Stack** : Python, TensorFlow, Matplotlib, Quantum.
 
----
-
-### **5. [Gestion des Stocks avec Django](https://github.com/ahmednasri/stock_management_django)**
-- **Objectif** : Application CRUD pour gérer les stocks, les commandes et les fournisseurs.
-- **Détails Techniques** :
-  - **Django ORM** : Modélisation et gestion efficace des bases de données relationnelles.
-  - **Interface Utilisateur** : Utilisation de Django Admin pour une administration simplifiée.
-  - **Sécurité** : Intégration de tokens JWT pour l’authentification des utilisateurs.
-- **Features** :
-  - Dashboard en temps réel pour suivre l’état des stocks.
-  - Système de notifications pour les seuils critiques.
-- **Tech Stack** : Python, Django, PostgreSQL, JWT, Docker.
-
----
+----------
 
 ## 🛠️ Compétences Techniques
 
