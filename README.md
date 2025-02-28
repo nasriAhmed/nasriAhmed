@@ -6,6 +6,9 @@ Développeur Full-Stack Python avec plus de 8 ans d'expérience, spécialisé da
 - **Big Data et Analyse** : Traitement de données massives avec des outils comme PySpark et Pandas.
 - **DevOps et CI/CD** : Intégration et déploiement continu avec Docker et GitLab CI/CD.
 - **Modélisation Machine Learning** : Développement et déploiement de modèles pour la prédiction et l'analyse.
+- **Mise en place d'architectures** robustes et scalables pour des applications web et Big Data
+- **Cloud & Azure :** Maîtrise des services Azure Key Vault, Azure Databricks, Azure Storage.
+- **Scrum Master certifié :** Gestion Agile et optimisation des processus de développement
 
 📄 **[Mon CV](./CV_Ahmed_Nasri_Developpeur_Full_Stack_Python_Senior.pdf)**  
 📧 **Email** : ahmed.nasri.ing@gmail.com  
@@ -25,24 +28,24 @@ Développeur Full-Stack Python avec plus de 8 ans d'expérience, spécialisé da
   - 📊 **Gestion des logs :** Supervision avancée des performances avec des logs et un suivi des requêtes.
 - 🏗 **Déploiement avec Docker & MongoDB**..
 - **Détails Techniques** :
- - **Python** (Flask, MongoEngine, PyJWT, Pandas)
- - **Base de données :** MongoDB.
- - **Gestion des Logs :** logging pour suivre les opérations de l'API.
- - **Tests Unitaires :** Pytest pour la validation des endpoints.
- - **Conteneurisation & Déploiement :** Docker, Docker Compose.
+   - **Python** (Flask, MongoEngine, PyJWT, Pandas)
+   - **Base de données :** MongoDB.
+   - **Gestion des Logs :** logging pour suivre les opérations de l'API.
+   - **Tests Unitaires :** Pytest pour la validation des endpoints.
+   - **Conteneurisation & Déploiement :** Docker, Docker Compose.
 - **Challenges Résolus** :
-  - 📌 Stockage optimisé avec MongoDB pour gérer efficacement les relations entre les livres, auteurs et emprunts.
-  - 🔐 Sécurisation des accès avec JWT pour protéger les endpoints sensibles.
-  - 📊 Monitoring des performances via des logs structurés.
-  - 🛠️ Automatisation des tests avec Pytest pour garantir la fiabilité des endpoints API.
-  - 🏗 Déploiement facile avec Docker, permettant une mise en production rapide et reproductible
+    - 📌 Stockage optimisé avec MongoDB pour gérer efficacement les relations entre les livres, auteurs et emprunts.
+    - 🔐 Sécurisation des accès avec JWT pour protéger les endpoints sensibles.
+    - 📊 Monitoring des performances via des logs structurés.
+    - 🛠️ Automatisation des tests avec Pytest pour garantir la fiabilité des endpoints API.
+    -  🏗 Déploiement facile avec Docker, permettant une mise en production rapide et reproductible
 - **Tech Stack** :
--  **Langage :** Python
--  **Framework Web :** Flask (Flask-RESTful, Flask-JWT-Extended)
--  **Base de données :** MongoDB avec MongoEngine
--  **Outils de Conteneurisation :** Docker, Docker Compose
--  **Gestion des logs et monitoring :** Logging Python
--  **Tests :** Pytest pour les tests unitaires
+    -  **Langage :** Python
+    -  **Framework Web :** Flask (Flask-RESTful, Flask-JWT-Extended)
+    -  **Base de données :** MongoDB avec MongoEngine
+    -  **Outils de Conteneurisation :** Docker, Docker Compose
+    -  **Gestion des logs et monitoring :** Logging Python
+    -  **Tests :** Pytest pour les tests unitaires
 
 ---
 
