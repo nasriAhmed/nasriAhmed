@@ -53,29 +53,28 @@ Développeur Full-Stack Python avec plus de 8 ans d'expérience, spécialisé da
 
 - **Objectif** : Ce projet est une **API RESTful** permettant de gérer un système de coupons avec :
 
-- 🎟️ **Gestion des coupons :** Ajouter, lister et supprimer des coupons.
-- 🔢 **Vérification d’éligibilité :** Vérifie si un produit peut bénéficier d’un coupon.
-- 📊 **Calcul des réductions :** Applique automatiquement le bon de réduction au produit.
-- 🔐 **Authentification JWT :** Sécurisation des accès avec **JSON Web Token**.
-- 🔄 **Conditions avancées :** Applique des règles complexes (`AND`, `OR`, `NOT`) sur les coupons.
-- 📌 **Gestion des logs :** Suivi des requêtes et des performances.
-- 🏗 **Déploiement avec Docker & MongoDB :** Conteneurisation pour une exécution facile et rapide.
+  - 🎟️ **Gestion des coupons :** Ajouter, lister et supprimer des coupons.
+  - 🔢 **Vérification d’éligibilité :** Vérifie si un produit peut bénéficier d’un coupon.
+  - 📊 **Calcul des réductions :** Applique automatiquement le bon de réduction au produit.
+  - 🔐 **Authentification JWT :** Sécurisation des accès avec **JSON Web Token**.
+  - 🔄 **Conditions avancées :** Applique des règles complexes (`AND`, `OR`, `NOT`) sur les coupons.
+  - 📌 **Gestion des logs :** Suivi des requêtes et des performances.
+  - 🏗 **Déploiement avec Docker & MongoDB :** Conteneurisation pour une exécution facile et rapide.
 
 ## **🛠️ Détails Techniques**
-- **Langage :** Python
-- **Framework Web :** Flask (`Flask-RESTful`, `Flask-JWT-Extended`)
-- **Base de données :** MongoDB avec MongoEngine
-- **Gestion des logs :** Logging Python (`logging`)
-- **Tests unitaires :** `pytest` pour la validation des endpoints
-- **Conteneurisation & Déploiement :** Docker, Docker Compose
+  - **Langage :** Python
+  - **Framework Web :** Flask (`Flask-RESTful`, `Flask-JWT-Extended`)
+  - **Base de données :** MongoDB avec MongoEngine
+  - **Gestion des logs :** Logging Python (`logging`)
+  - **Tests unitaires :** `pytest` pour la validation des endpoints
+  - **Conteneurisation & Déploiement :** Docker, Docker Compose
 
 ## **🎯 Challenges Résolus**
-- 📌 **Optimisation du stockage** avec **MongoDB**, en structurant efficacement les conditions des coupons.
-- 🔐 **Sécurisation des accès** avec **JWT** pour protéger les endpoints sensibles.
-- 📊 **Monitoring avancé** via des logs structurés et traçabilité des actions API.
-- 🛠️ **Tests automatisés** avec **pytest** pour garantir la fiabilité des fonctionnalités critiques.
-- 🏗 **Déploiement facile avec Docker**, permettant une mise en production rapide et reproductible.
-
+  - 📌 **Optimisation du stockage** avec **MongoDB**, en structurant efficacement les conditions des coupons.
+  - 🔐 **Sécurisation des accès** avec **JWT** pour protéger les endpoints sensibles.
+  - 📊 **Monitoring avancé** via des logs structurés et traçabilité des actions API.
+  - 🛠️ **Tests automatisés** avec **pytest** pour garantir la fiabilité des fonctionnalités critiques.
+  - 🏗 **Déploiement facile avec Docker**, permettant une mise en production rapide et reproductible.
 
 ---
 
