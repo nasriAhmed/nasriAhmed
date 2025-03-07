@@ -62,19 +62,19 @@ Développeur Full-Stack Python avec plus de 8 ans d'expérience, spécialisé da
   - 🏗 **Déploiement avec Docker & MongoDB :** Conteneurisation pour une exécution facile et rapide.
 
 ## **🛠️ Détails Techniques**
-    - **Langage :** Python
-    - **Framework Web :** Flask (`Flask-RESTful`, `Flask-JWT-Extended`)
-    - **Base de données :** MongoDB avec MongoEngine
-    - **Gestion des logs :** Logging Python (`logging`)
-    - **Tests unitaires :** `pytest` pour la validation des endpoints
-    - **Conteneurisation & Déploiement :** Docker, Docker Compose
+  - **Langage :** Python
+  - **Framework Web :** Flask (`Flask-RESTful`, `Flask-JWT-Extended`)
+  - **Base de données :** MongoDB avec MongoEngine
+  - **Gestion des logs :** Logging Python (`logging`)
+  - **Tests unitaires :** `pytest` pour la validation des endpoints
+  - **Conteneurisation & Déploiement :** Docker, Docker Compose
 
 ## **🎯 Challenges Résolus**
-    - 📌 **Optimisation du stockage** avec **MongoDB**, en structurant efficacement les conditions des coupons.
-    - 🔐 **Sécurisation des accès** avec **JWT** pour protéger les endpoints sensibles.
-    - 📊 **Monitoring avancé** via des logs structurés et traçabilité des actions API.
-    - 🛠️ **Tests automatisés** avec **pytest** pour garantir la fiabilité des fonctionnalités critiques.
-    - 🏗 **Déploiement facile avec Docker**, permettant une mise en production rapide et reproductible.
+  - 📌 **Optimisation du stockage** avec **MongoDB**, en structurant efficacement les conditions des coupons.
+  - 🔐 **Sécurisation des accès** avec **JWT** pour protéger les endpoints sensibles.
+  - 📊 **Monitoring avancé** via des logs structurés et traçabilité des actions API.
+  - 🛠️ **Tests automatisés** avec **pytest** pour garantir la fiabilité des fonctionnalités critiques.
+  - 🏗 **Déploiement facile avec Docker**, permettant une mise en production rapide et reproductible.
 
 ---
 
