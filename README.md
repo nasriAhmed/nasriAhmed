@@ -17,7 +17,7 @@ Développeur Full-Stack Python avec plus de 8 ans d'expérience, spécialisé da
 
 ## 🚀 Projets Techniques
 
-### **1. [Système de Gestion de Bibliothèque avec Flask & MongoDB](https://github.com/nasriAhmed/library_management)**
+### **1. [Système de Gestion de Bibliothèque avec Flask & MongoDB & Docker](https://github.com/nasriAhmed/library_management)**
 - **Objectif** : Ce projet est une API RESTful permettant de gérer une bibliothèque avec :
   - 📖 **Gestion des auteurs :** Ajouter, lister et supprimer des auteurs.
   - 📚 **Gestion des livres :** Ajouter, lister et supprimer des livres.
@@ -49,7 +49,38 @@ Développeur Full-Stack Python avec plus de 8 ans d'expérience, spécialisé da
 
 ---
 
-### **2. [ETL avec Airflow et Pandas](https://github.com/nasriAhmed/Etl_airflow_pandas)**
+# **2. [Système de Gestion des Coupons avec Flask & MongoDB & Docker](https://github.com/nasriAhmed/coupon_management)**
+
+## **📌 Objectif**
+Ce projet est une **API RESTful** permettant de gérer un système de coupons avec :
+
+- 🎟️ **Gestion des coupons :** Ajouter, lister et supprimer des coupons.
+- 🔢 **Vérification d’éligibilité :** Vérifie si un produit peut bénéficier d’un coupon.
+- 📊 **Calcul des réductions :** Applique automatiquement le bon de réduction au produit.
+- 🔐 **Authentification JWT :** Sécurisation des accès avec **JSON Web Token**.
+- 🔄 **Conditions avancées :** Applique des règles complexes (`AND`, `OR`, `NOT`) sur les coupons.
+- 📌 **Gestion des logs :** Suivi des requêtes et des performances.
+- 🏗 **Déploiement avec Docker & MongoDB :** Conteneurisation pour une exécution facile et rapide.
+
+## **🛠️ Détails Techniques**
+- **Langage :** Python
+- **Framework Web :** Flask (`Flask-RESTful`, `Flask-JWT-Extended`)
+- **Base de données :** MongoDB avec MongoEngine
+- **Gestion des logs :** Logging Python (`logging`)
+- **Tests unitaires :** `pytest` pour la validation des endpoints
+- **Conteneurisation & Déploiement :** Docker, Docker Compose
+
+## **🎯 Challenges Résolus**
+- 📌 **Optimisation du stockage** avec **MongoDB**, en structurant efficacement les conditions des coupons.
+- 🔐 **Sécurisation des accès** avec **JWT** pour protéger les endpoints sensibles.
+- 📊 **Monitoring avancé** via des logs structurés et traçabilité des actions API.
+- 🛠️ **Tests automatisés** avec **pytest** pour garantir la fiabilité des fonctionnalités critiques.
+- 🏗 **Déploiement facile avec Docker**, permettant une mise en production rapide et reproductible.
+
+
+---
+
+### **3. [ETL avec Airflow et Pandas](https://github.com/nasriAhmed/Etl_airflow_pandas)**
 - **Objectif** : Mise en place d'un pipeline ETL pour extraire, transformer et charger des données brutes vers une base de données optimisée.
 - **Détails Techniques** :
   - **Airflow** : Orchestration et planification des tâches.
@@ -63,7 +94,7 @@ Développeur Full-Stack Python avec plus de 8 ans d'expérience, spécialisé da
 
 ---
 
-### **3. [Analyse des Logs avec PySpark](https://github.com/nasriAhmed/Analyse_des_logs_avec_PySpark)**
+### **4. [Analyse des Logs avec PySpark](https://github.com/nasriAhmed/Analyse_des_logs_avec_PySpark)**
 - **Objectif** : Analyser des fichiers de logs volumineux pour détecter des anomalies et des tendances.
 - **Détails Techniques** :
   - **PySpark** : Traitement distribué des données pour gérer des volumes massifs.
@@ -75,7 +106,7 @@ Développeur Full-Stack Python avec plus de 8 ans d'expérience, spécialisé da
 
 ---
 
-### **4. [Drone Visit Sites](https://github.com/nasriAhmed/Drone_Visit_sites)**
+### **5. [Drone Visit Sites](https://github.com/nasriAhmed/Drone_Visit_sites)**
 - **Objectif** : Développement d’une application pour planifier et optimiser les visites de drones sur des sites spécifiques.
 - **Détails Techniques** :
   - **Backend** :
@@ -91,7 +122,7 @@ Développeur Full-Stack Python avec plus de 8 ans d'expérience, spécialisé da
 
 ---
 
-### **5. [Simulation Épidémiologique avec des Multi-Agents](https://github.com/nasriAhmed/Project_Covid_19)**
+### **6. [Simulation Épidémiologique avec des Multi-Agents](https://github.com/nasriAhmed/Project_Covid_19)**
 - **Objectif** : Modélisation de la propagation d'épidémies avec des agents intelligents et du deep learning.
 - **Détails Techniques** :
   - **Deep Learning** : Utilisation de RNN (Recurrent Neural Networks) pour la prédiction.
