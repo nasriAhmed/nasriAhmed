@@ -49,10 +49,9 @@ Développeur Full-Stack Python avec plus de 8 ans d'expérience, spécialisé da
 
 ---
 
-# **2. [Système de Gestion des Coupons avec Flask & MongoDB & Docker](https://github.com/nasriAhmed/coupon_management)**
+### **2. [Système de Gestion des Coupons avec Flask & MongoDB & Docker](https://github.com/nasriAhmed/coupon_management)**
 
-## **📌 Objectif**
-Ce projet est une **API RESTful** permettant de gérer un système de coupons avec :
+## **📌 Objectif** : Ce projet est une **API RESTful** permettant de gérer un système de coupons avec :
 
 - 🎟️ **Gestion des coupons :** Ajouter, lister et supprimer des coupons.
 - 🔢 **Vérification d’éligibilité :** Vérifie si un produit peut bénéficier d’un coupon.
